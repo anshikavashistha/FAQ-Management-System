@@ -20,13 +20,19 @@
 **Backend**
 
 Django 4.2
+
 Django REST Framework
+
 django-ckeditor
+
 Redis
+
 googletrans
 
 **Frontend**
 
 React 18
+
 Tailwind CSS
+
 shadcn/ui components
